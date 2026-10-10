@@ -38,7 +38,11 @@ Frontend development using React for a web platform dedicated to running events 
 
 ### MediSmart — Medical Queue & Appointment Management Platform
 
-Frontend development using React for a medical appointment and queue management platform.
+Frontend Developer — React
+
+A medical appointment and queue management platform developed as an academic group project.
+
+🔗 [View MediSmart on GitHub](https://github.com/Islem-Hammemi/PFA_MediSmart)
 
 **Technologies:** React · HTML/CSS · JavaScript
 
