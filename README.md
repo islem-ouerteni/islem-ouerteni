@@ -28,6 +28,22 @@ Networking Fundamentals · SOC Basics · CTF
 **Tools**  
 Git · GitHub
 
+## 💼 Internships
+
+### 🧠 Centre National de l’Informatique (CNI)
+**AI / Software Development Intern** · July 2026 – August 2026
+
+- Developed a local AI assistant for document analysis and querying.
+- Worked with **RAG, Ollama, and LLM/NLP technologies**.
+- Built the solution to operate fully **offline and locally**.
+
+### 🖥️ Centre Informatique du Ministère de la Santé (CIMS)
+**IT / Systems & Network Intern** · July 2026 – August 2026
+
+- Participated in **system and network administration** activities.
+- Worked on **configuration, virtualization, and system supervision**.
+- Gained practical experience in IT infrastructure and maintenance.
+
 ## 🚀 Projects
 
 ### RUNHUB — Running Events Platform
